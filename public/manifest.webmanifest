@@ -1,0 +1,10 @@
+{
+  "name": "Touch Grass Field Notes",
+  "short_name": "Touch Grass",
+  "description": "Small outdoor missions, built for offline moments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171b18",
+  "theme_color": "#171b18",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
